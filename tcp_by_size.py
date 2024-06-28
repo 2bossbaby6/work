@@ -35,7 +35,6 @@ def recv_by_size(sock):
 
 
 def send_with_size(sock, bdata):
-    print("nigga")
     if type(bdata) == str:
         bdata = bdata.encode()
     len_data = len(bdata)

@@ -121,7 +121,7 @@ def custom_action(packet):
 
         packet.dst = packet_dst
         if ip_address == "104.26.0.194":
-            print("nigga")
+            print("pr")
 
         if ip_address not in ip_list:  # getHost(ip_address) == '022.co.il':
             scapy.sendp(packet, verbose=0)

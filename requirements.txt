@@ -1,0 +1,7 @@
+cryptography==41.0.2
+dnspython==2.6.1
+mss==9.0.1
+pygame==2.5.0
+PyGetWindow==0.0.9
+pywin32==306
+scapy==2.5.0
